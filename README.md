@@ -24,9 +24,9 @@ function:show first 5 database<br>
 
 <br>
 function:show detail<br>
-- In web.php, add 1 more route
-- In PostController, add function: show beside index
-- create view: view/posts/show.blade.php
+- In web.php, add 1 more route <br>
+- In PostController, add function: show beside index <br>
+- create view: view/posts/show.blade.php <br>
 
 
 
