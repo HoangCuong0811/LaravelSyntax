@@ -16,6 +16,9 @@ create factory: php artisan make:factory StudentFactory --model=Student then con
 create seeder: php artisan make:seeder StudentSeeder then configure <br>
 open databaseseeder file to call StudentSeeder then run command php artisan db:seed <br><br>
 
+function:show first 5 database<br>
+- haah
+- hihi
 
 
 
